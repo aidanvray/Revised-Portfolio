@@ -1,0 +1,9 @@
+title: Aidan Ray's Portfolio Website
+name: Aidan Ray
+description: representing my digital projects
+timezone: America/New_York
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
